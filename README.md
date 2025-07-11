@@ -51,3 +51,18 @@ git clone https://github.com/GoldSkull-777/GoldJam.git
 cd GoldJam
 chmod +x GoldJam.py
 sudo python3 GoldJam.py
+---
+
+## 👤 Author
+
+**GoldSkull-777**  
+GitHub: [@GoldSkull-777](https://github.com/GoldSkull-777)
+
+---
+
+## ⚠️ Disclaimer
+
+> This tool is intended for **educational and authorized penetration testing** only.  
+> Do **not** use it on networks you do **not own** or do **not have explicit permission** to test.  
+> Unauthorized use may be illegal and unethical.  
+> The author is **not responsible** for any misuse or damage caused by this tool.
